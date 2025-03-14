@@ -1,0 +1,22 @@
+ [
+      {
+        "id": 1,
+        "icon": "info-icon.png",
+        "title": "Our Mission",
+        "details": "We strive to provide quality education and innovation through technology."
+      },
+      {
+        "id": 2,
+        "icon": "vision-icon.png",
+        "title": "Our Vision",
+        "details": "To be a leading digital university, fostering research and development."
+      },
+      {
+        "id": 3,
+        "icon": "service-icon.png",
+        "title": "Our Services",
+        "details": "We offer online courses, research opportunities, and skill development programs."
+      }
+    ]
+  
+  

@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "area": 147570,
+      "population": 171000000,
+      "interesting_fact": "Bangladesh has the world's largest river delta, the Sundarbans, home to the Bengal tiger.",
+      "tourist_place": "Cox's Bazar, Sundarbans, Srimangal"
+    },
+    {
+      "id": 2,
+      "name": "India",
+      "capital": "New Delhi",
+      "area": 3287263,
+      "population": 1428000000,
+      "interesting_fact": "India is the world's largest democracy and the birthplace of four major religions: Hinduism, Buddhism, Jainism, and Sikhism.",
+      "tourist_place": "Taj Mahal, Jaipur, Kerala Backwaters"
+    },
+    {
+      "id": 3,
+      "name": "China",
+      "capital": "Beijing",
+      "area": 9596961,
+      "population": 1412000000,
+      "interesting_fact": "China has the world's longest wall, the Great Wall of China, spanning over 21,000 km.",
+      "tourist_place": "Great Wall of China, Forbidden City, Zhangjiajie National Forest Park"
+    },
+    {
+      "id": 4,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "area": 377975,
+      "population": 125800000,
+      "interesting_fact": "Japan has the world's oldest continuous monarchy, dating back over 2,600 years.",
+      "tourist_place": "Mount Fuji, Kyoto Temples, Tokyo Disneyland"
+    },
+    {
+      "id": 5,
+      "name": "Australia",
+      "capital": "Canberra",
+      "area": 7692024,
+      "population": 26000000,
+      "interesting_fact": "Australia is home to the world's largest coral reef system, the Great Barrier Reef.",
+      "tourist_place": "Sydney Opera House, Great Barrier Reef, Uluru"
+    },
+    {
+      "id": 6,
+      "name": "New Zealand",
+      "capital": "Wellington",
+      "area": 268838,
+      "population": 5000000,
+      "interesting_fact": "New Zealand was the first country to give women the right to vote in 1893.",
+      "tourist_place": "Milford Sound, Hobbiton, Rotorua Geothermal Valley"
+    },
+    {
+      "id": 7,
+      "name": "Brazil",
+      "capital": "Brasilia",
+      "area": 8515767,
+      "population": 214000000,
+      "interesting_fact": "Brazil has the largest rainforest in the world, the Amazon Rainforest.",
+      "tourist_place": "Christ the Redeemer, Amazon Rainforest, Iguazu Falls"
+    },
+    {
+      "id": 8,
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "area": 2780400,
+      "population": 46000000,
+      "interesting_fact": "Argentina is the birthplace of the tango dance.",
+      "tourist_place": "Iguazu Falls, Perito Moreno Glacier, Buenos Aires"
+    },
+    {
+      "id": 9,
+      "name": "United States",
+      "capital": "Washington, D.C.",
+      "area": 9833517,
+      "population": 332000000,
+      "interesting_fact": "The United States has the most billionaires in the world.",
+      "tourist_place": "Grand Canyon, Statue of Liberty, Yellowstone National Park"
+    },
+    {
+      "id": 10,
+      "name": "Canada",
+      "capital": "Ottawa",
+      "area": 9984670,
+      "population": 39000000,
+      "interesting_fact": "Canada has the longest coastline of any country in the world.",
+      "tourist_place": "Niagara Falls, Banff National Park, CN Tower"
+    },
+    {
+      "id": 11,
+      "name": "United Kingdom",
+      "capital": "London",
+      "area": 243610,
+      "population": 67000000,
+      "interesting_fact": "Big Ben is actually the name of the bell inside the Elizabeth Tower, not the tower itself.",
+      "tourist_place": "Buckingham Palace, Tower of London, Stonehenge"
+    },
+    {
+      "id": 12,
+      "name": "France",
+      "capital": "Paris",
+      "area": 551695,
+      "population": 68000000,
+      "interesting_fact": "France is the most visited country in the world.",
+      "tourist_place": "Eiffel Tower, Louvre Museum, Mont Saint-Michel"
+    },
+    {
+      "id": 13,
+      "name": "Germany",
+      "capital": "Berlin",
+      "area": 357022,
+      "population": 84000000,
+      "interesting_fact": "Germany is home to the world's largest beer festival, Oktoberfest.",
+      "tourist_place": "Neuschwanstein Castle, Brandenburg Gate, Black Forest"
+    },
+    {
+      "id": 14,
+      "name": "Italy",
+      "capital": "Rome",
+      "area": 301340,
+      "population": 59000000,
+      "interesting_fact": "Rome has an entire country inside it—Vatican City, the smallest country in the world.",
+      "tourist_place": "Colosseum, Venice Canals, Leaning Tower of Pisa"
+    },
+    {
+      "id": 15,
+      "name": "Russia",
+      "capital": "Moscow",
+      "area": 17098242,
+      "population": 143000000,
+      "interesting_fact": "Russia is the largest country in the world by land area.",
+      "tourist_place": "Red Square, Lake Baikal, Saint Basil’s Cathedral"
+    },
+    {
+      "id": 16,
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "area": 1221037,
+      "population": 59000000,
+      "interesting_fact": "South Africa has three capital cities: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial).",
+      "tourist_place": "Table Mountain, Kruger National Park, Robben Island"
+    },
+    {
+      "id": 17,
+      "name": "Egypt",
+      "capital": "Cairo",
+      "area": 1002450,
+      "population": 110000000,
+      "interesting_fact": "Egypt has the last remaining wonder of the ancient world: the Great Pyramid of Giza.",
+      "tourist_place": "Pyramids of Giza, Valley of the Kings, Abu Simbel Temples"
+    },
+    {
+      "id": 18,
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "area": 580367,
+      "population": 54000000,
+      "interesting_fact": "Kenya is famous for the Great Wildebeest Migration in the Maasai Mara.",
+      "tourist_place": "Maasai Mara, Mount Kenya, Diani Beach"
+    },
+    {
+      "id": 19,
+      "name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "area": 2149690,
+      "population": 35000000,
+      "interesting_fact": "Saudi Arabia is home to Islam's two holiest cities, Mecca and Medina.",
+      "tourist_place": "Mecca, Medina, Edge of the World"
+    },
+    {
+      "id": 20,
+      "name": "Turkey",
+      "capital": "Ankara",
+      "area": 783356,
+      "population": 86000000,
+      "interesting_fact": "Turkey's city Istanbul is the only city in the world that spans two continents: Europe and Asia.",
+      "tourist_place": "Hagia Sophia, Cappadocia, Pamukkale"
+    }
+  ]
+  
